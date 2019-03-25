@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+      "node_modules/": true,
+      "node_modules_offline/": true
+    },
+    "workbench.colorCustomizations": {
+      "editorSuggestWidget.selectedBackground": "#00557c",
+      "editorSuggestWidget.highlightForeground": "#27a9ff",
+      "textLink.foreground": "#e06c75",
+      "textLink.activeForeground": "#27a9ff",
+      "list.focusBackground": "#00557c",
+      "list.highlightForeground": "#27a9ff"
+    }
+  }
+  
